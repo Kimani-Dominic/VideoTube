@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#firebase api
+.Firebase.tsx
+src/components/Firebase.tsx
